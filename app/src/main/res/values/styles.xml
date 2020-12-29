@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#ffbd27</item><!--标题栏-->
+        <item name="colorPrimaryDark">#CF962E</item><!--状态栏-->
+        <item name="colorAccent">#ffbd27</item><!--底线光标-->
+    </style>
+
+</resources>
